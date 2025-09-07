@@ -2,6 +2,9 @@
 
 This is a fraud detection case project in financial transactions for Conectio firm. The objective is to identify suspicious patterns from purchase data by applying data cleansing, pre-processing and exploratory data analysis techniques. 
 
+The dataset was provided via a MySQL database connection. The data was first explored directly in MySQL (checking for duplicates, null values, etc.), and then imported into the project in VSCode, where it was exported as CSV for further processing with Python.
+
+
 ### This Includes:
 
 - Data preprocessing (cleansing, normalization, and outlier handling).
