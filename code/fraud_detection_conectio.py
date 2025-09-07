@@ -1,6 +1,6 @@
 """Fraud Detection Data Analysis"""
 
-# First of all, let's import the necessary libraries. As direct SQL-CSV download was not possible, we have to use a mySQL connector library (after some investigation on how it works)
+# First of all, let's import the necessary libraries.
 import pandas as pd
 import mysql.connector
 
