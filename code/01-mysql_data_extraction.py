@@ -7,9 +7,9 @@ import mysql.connector
 
 # We have to create a variable "conn" to inidcate the DB access details, call the library and use the .connect() function
 conn = mysql.connector.connect(
-    host="51.94.152.149",
-    user="test_user",
-    password="q1w2e3r4",
+    host="**.**.***.149",
+    user="test*****",
+    password="********",
     database="dataAnalistPaymentsV3"
 )
 
