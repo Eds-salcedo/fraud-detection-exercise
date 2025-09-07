@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Configuración de IDEs ---
+.vscode/
+.idea/
+*.swp
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Datos y salidas ---
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.log
+output/
+results/
+
+
